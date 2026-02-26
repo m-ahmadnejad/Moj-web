@@ -1,5 +1,0 @@
-chicken 1
-chicken 2
-chicken 3
-chicken 4
-chicken 5
